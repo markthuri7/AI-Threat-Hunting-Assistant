@@ -1,6 +1,8 @@
 # AI-Threat-Hunting-Assistant
 ## Overview
-Develop an AI-powered cybersecurity assistant capable of translating natural-language threat-hunting requests into Microsoft Sentinel KQL queries to improve analyst efficiency and strengthen cyber defense operations for critical infrastructure organizations.
+The AI Threat Hunting Assistant is a cybersecurity automation project designed to improve threat hunting efficiency by translating natural-language security investigation requests into Microsoft Sentinel KQL queries.
+
+This project supports the broader mission of advancing AI-driven cybersecurity automation for critical infrastructure sectors, including healthcare, finance, telecommunications, and government environments.
 
 ## Objective
 - Reduce threat-hunting query development time
